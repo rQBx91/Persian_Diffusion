@@ -1,4 +1,4 @@
-# Persian_Diffusion
+# Persian Diffusion
 
 ![Gif](https://github.com/rQBx91/Persian_Diffusion/blob/main/result/persian/samples/gifs/gif1.gif)
 
